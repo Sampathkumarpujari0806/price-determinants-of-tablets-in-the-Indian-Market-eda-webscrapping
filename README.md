@@ -23,4 +23,4 @@ This project uses web-scraped product data to analyze which hardware specificati
 ## How to load file
 - See the original presentation for methodology and visuals:EDA_Project_Tablets.pptx
 - Run the scraper (Python script) to fetch listings from Flipkart pages (use requests + BeautifulSoup).
-- Load the CSV into Pandas, run the cleaning pipeline (dedupe, impute, type cast), then execute EDA notebooks to reproduce charts and correlation analyses.
+- Load the CSV into Pandas, run the cleaning pipeline (duplicates, impute, datatype conversion), then execute EDA notebooks to reproduce charts and correlation analyses.
