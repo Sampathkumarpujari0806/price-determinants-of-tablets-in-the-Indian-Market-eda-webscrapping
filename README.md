@@ -101,3 +101,18 @@ This project uses web-scraped product data to analyze which hardware specificati
 
 ---
 ## ▶️ How to Run This Project
+1.Clone the repository : git clone https://github.com/Sampathkumarpujari0806/price-determinants-of-tablets-in-the-Indian-Market-eda-webscrapping.git <br>
+2.Open the Jupyter notebook: tablets_eda_project.ipynb <br>
+3. Run the notebook <br>
+4.View the presentation 
+- The PPT file (EDA_project_Tablets.pptx) is included for a quick summary of insights and visuals.
+
+---
+📈 Future Enhancements
+
+- Build a price prediction model (Regression / ML)
+- Deploy an interactive dashboard using Streamlit / Power BI
+- Automate scheduled scraping to keep data updated
+
+---
+
