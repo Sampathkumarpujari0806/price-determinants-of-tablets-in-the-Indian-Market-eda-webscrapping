@@ -1,4 +1,4 @@
-# Price Determinants of Tablets in the Indian Market : A Web Scraping and EDA Project
+# 📱 Price Determinants of Tablets in the Indian Market : A Web Scraping and EDA Project
 ## 📌 Project Overview
 This project uses web-scraped product data to analyze which hardware specifications, brand positioning, and promotional offers drive tablet pricing in India. I scraped product listings from Flipkart, cleaned and standardized the data, and conducted exploratory data analysis (EDA) to identify pricing patterns, brand segments, and value-for-money recommendations for consumers.
 
@@ -115,4 +115,11 @@ This project uses web-scraped product data to analyze which hardware specificati
 - Automate scheduled scraping to keep data updated
 
 ---
+## 👤 Author & Contact
+
+Author: Pujari Sampath Kumar <br>
+🎓 B.Tech                   <br>
+📧 Email: sampathkumarpujari4@gmail.com<br>
+🔗 LinkedIn:http://www.linkedin.com/in/sampathkumarpujari<br>
+💻 GitHub: https://github.com/Sampathkumarpujari0806
 
