@@ -101,10 +101,3 @@ This project uses web-scraped product data to analyze which hardware specificati
 
 ---
 ## ▶️ How to Run This Project
-
-1.Clone the repository: <br>
-git clone https://github.com/Sampathkumarpujari0806/price-determinants-of-tablets-in-the-Indian-Market-eda-webscrapping.git  <br>
-cd price-determinants-of-tablets-in-the-Indian-Market-eda-webscrapping
-
-
-
